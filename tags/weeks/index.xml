@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weeks | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/weeks/</link>
+      <atom:link href="http://localhost:1313/tags/weeks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Weeks</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 12 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Weeks</title>
+      <link>http://localhost:1313/tags/weeks/</link>
+    </image>
+    
+    <item>
+      <title>Пост по неделе 5-11 мая.</title>
+      <link>http://localhost:1313/post/1/</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/1/</guid>
+      <description>&lt;h2 id=&#34;общая-информация-про-неделю&#34;&gt;Общая информация про неделю&lt;/h2&gt;
+&lt;p&gt;В прошедшей неделе мои дни были наполнены интересными событиями и открытиями. Половину недели я училась по своему обычному расписанию, но начиная с 8 мая в связи с Днем Победы дни с 8-11 были выходными.&lt;/p&gt;
+&lt;h2 id=&#34;события&#34;&gt;События&lt;/h2&gt;
+&lt;p&gt;В эту неделю я не только хорошо отдохнула, но и продуктивно поработала, ведь на следующей неделе у меня будут контрольные и самостоятельные, поэтому я должна была подготовиться.&lt;/p&gt;
+&lt;h2 id=&#34;подготовка-к-следующей-неделе&#34;&gt;Подготовка к следующей неделе&lt;/h2&gt;
+&lt;p&gt;Надо было подготовиться к самостоятельным по математическому анализа и линейной алгебре и контрольной работе по математической логике, поэтому всю неделю я усердно готовилась. В первые несколько дней я повторила все нужные темы по матлогу, дальше сделала домашнее задание по линейной алгебре, чтобы лучше разобрать тему. И закончила подготовку математическим анализом и подготовкой к самостоятельной по интегралам.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
