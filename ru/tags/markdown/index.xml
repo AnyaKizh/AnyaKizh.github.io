@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/ru/tags/markdown/</link>
+      <atom:link href="http://localhost:1313/ru/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <description>Markdown</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 17 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>Markdown</title>
+      <link>http://localhost:1313/ru/tags/markdown/</link>
+    </image>
+    
+    <item>
+      <title>✅ course 2</title>
+      <link>http://localhost:1313/ru/post/course2/</link>
+      <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/post/course2/</guid>
+      <description>&lt;iframe width=&#34;720&#34; height=&#34;405&#34; src=&#34;https://rutube.ru/play/embed/de9193ce507b9bca665505326fced784/?p=t0UMOmzCVok-aBbH12tBvg&#34; frameBorder=&#34;0&#34; allow=&#34;clipboard-write; autoplay&#34; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>🎉 course 1</title>
+      <link>http://localhost:1313/ru/post/course1/</link>
+      <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/post/course1/</guid>
+      <description>&lt;iframe width=&#34;720&#34; height=&#34;405&#34; src=&#34;https://rutube.ru/play/embed/0e1612587e5ea0ff7dbdd1dbd7282090/?p=fnbawhLnyEZrL9uIL-PJ8w&#34; frameBorder=&#34;0&#34; allow=&#34;clipboard-write; autoplay&#34; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>🧠 Course 3</title>
+      <link>http://localhost:1313/ru/post/course3/</link>
+      <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/post/course3/</guid>
+      <description>&lt;iframe width=&#34;720&#34; height=&#34;405&#34; src=&#34;https://rutube.ru/play/embed/ca23762aaf272a5337cee3f837ceea56/?p=zV7awhuU7Q-iZTFWe6it2g&#34; frameBorder=&#34;0&#34; allow=&#34;clipboard-write; autoplay&#34; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/ru/project/scikit/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/project/scikit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/ru/project/pandas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/project/pandas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/ru/project/pytorch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/project/pytorch/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

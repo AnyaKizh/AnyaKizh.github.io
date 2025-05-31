@@ -48,38 +48,55 @@
     </item>
     
     <item>
-      <title>Пост по неделе 5-11 мая.</title>
-      <link>http://localhost:1313/post/1/</link>
+      <title>26-31.05.2025</title>
+      <link>http://localhost:1313/post/2/</link>
       <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/1/</guid>
-      <description>&lt;h2 id=&#34;общая-информация-про-неделю&#34;&gt;Общая информация про неделю&lt;/h2&gt;
-&lt;p&gt;В прошедшей неделе мои дни были наполнены интересными событиями и открытиями. Половину недели я училась по своему обычному расписанию, но начиная с 8 мая в связи с Днем Победы дни с 8-11 были выходными.&lt;/p&gt;
-&lt;h2 id=&#34;события&#34;&gt;События&lt;/h2&gt;
-&lt;p&gt;В эту неделю я не только хорошо отдохнула, но и продуктивно поработала, ведь на следующей неделе у меня будут контрольные и самостоятельные, поэтому я должна была подготовиться.&lt;/p&gt;
-&lt;h2 id=&#34;подготовка-к-следующей-неделе&#34;&gt;Подготовка к следующей неделе&lt;/h2&gt;
-&lt;p&gt;Надо было подготовиться к самостоятельным по математическому анализа и линейной алгебре и контрольной работе по математической логике, поэтому всю неделю я усердно готовилась. В первые несколько дней я повторила все нужные темы по матлогу, дальше сделала домашнее задание по линейной алгебре, чтобы лучше разобрать тему. И закончила подготовку математическим анализом и подготовкой к самостоятельной по интегралам.&lt;/p&gt;
+      <guid>http://localhost:1313/post/2/</guid>
+      <description>&lt;p&gt;The past week at university was busy and productive. I actively attended lectures and seminars, paying special attention to difficult topics that required extra time to understand. I focused especially on preparing for upcoming tests — reviewing key concepts, solving practical problems, and analyzing mistakes to avoid them in the future.&lt;/p&gt;
+&lt;p&gt;Additionally, I participated in group projects, which helped improve my teamwork skills and deepen my understanding of the subjects through discussions with classmates. In my free time, I engaged in self-study by exploring additional literature and materials, which broadened my horizons and better prepared me for exams.&lt;/p&gt;
+&lt;p&gt;Despite the intense schedule, I tried to maintain a balance between studying and rest to keep a high level of motivation and productivity. Overall, the week went well, and I feel confident in my knowledge and ready for new challenges in my studies.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Что такое CI-CD?</title>
+      <title>What is CI-CD?</title>
       <link>http://localhost:1313/post/ci-cd/</link>
       <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/post/ci-cd/</guid>
-      <description>&lt;p&gt;CI/CD - это не просто модные аббревиатуры, а ключевые практики для современной разработки программного обеспечения. Они позволяют командам создавать и выпускать софт быстрее, надежнее и с меньшим количеством ошибок.&lt;/p&gt;
-&lt;h2 id=&#34;ci-continuous-integration---непрерывная-интеграция&#34;&gt;CI (Continuous Integration - Непрерывная Интеграция):&lt;/h2&gt;
-&lt;p&gt;•  Разработчики регулярно интегрируют свои изменения кода в общий репозиторий.&lt;/p&gt;
-&lt;p&gt;•  Автоматизированные сборки и тесты выполняются при каждой интеграции.&lt;/p&gt;
-&lt;p&gt;•  Проблемы обнаруживаются на ранних этапах, что упрощает их исправление.&lt;/p&gt;
-&lt;h2 id=&#34;cd-continuous-deliverydeployment---непрерывная-доставкаразвертывание&#34;&gt;CD (Continuous Delivery/Deployment - Непрерывная Доставка/Развертывание):&lt;/h2&gt;
-&lt;p&gt;•  Автоматизирует процесс доставки изменений кода в различные среды (тестирование, staging, production).&lt;/p&gt;
-&lt;p&gt;•  Continuous Delivery: Изменения готовы к развертыванию в production в любой момент, но требуют ручного одобрения.&lt;/p&gt;
-&lt;p&gt;•  Continuous Deployment: Изменения автоматически развертываются в production после успешного прохождения всех тестов.&lt;/p&gt;
-&lt;h2 id=&#34;в-итоге-cicd-позволяет&#34;&gt;В итоге, CI/CD позволяет:&lt;/h2&gt;
-&lt;p&gt;•  Ускорить выпуск новых функций и обновлений.&lt;/p&gt;
-&lt;p&gt;•  Улучшить качество кода за счет автоматизированного тестирования.&lt;/p&gt;
-&lt;p&gt;•  Снизить риски, связанные с развертыванием.&lt;/p&gt;
-&lt;p&gt;•  Сделать процесс разработки более предсказуемым и эффективным.&lt;/p&gt;
+      <description>&lt;p&gt;CI/CD is not just trendy abbreviations but key practices for modern software development. They enable teams to build and release software faster, more reliably, and with fewer errors.&lt;/p&gt;
+&lt;h2 id=&#34;ci-continuous-integration&#34;&gt;CI (Continuous Integration):&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Developers regularly integrate their code changes into a shared repository.&lt;/li&gt;
+&lt;li&gt;Automated builds and tests run with every integration.&lt;/li&gt;
+&lt;li&gt;Issues are detected early, making them easier to fix.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;cd-continuous-deliverydeployment&#34;&gt;CD (Continuous Delivery/Deployment):&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Automates the process of delivering code changes to various environments (testing, staging, production).&lt;/li&gt;
+&lt;li&gt;Continuous Delivery: Changes are ready to be deployed to production at any time but require manual approval.&lt;/li&gt;
+&lt;li&gt;Continuous Deployment: Changes are automatically deployed to production after passing all tests successfully.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;in-summary-cicd-allows-you-to&#34;&gt;In summary, CI/CD allows you to:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Accelerate the release of new features and updates.&lt;/li&gt;
+&lt;li&gt;Improve code quality through automated testing.&lt;/li&gt;
+&lt;li&gt;Reduce risks associated with deployments.&lt;/li&gt;
+&lt;li&gt;Make the development process more predictable and efficient.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Пост по неделе 5-11 мая.</title>
+      <link>http://localhost:1313/post/1/</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/1/</guid>
+      <description>&lt;h2 id=&#34;general-information-about-the-week&#34;&gt;General Information About the Week&lt;/h2&gt;
+&lt;p&gt;Last week, my days were filled with interesting events and discoveries. I followed my usual schedule for half of the week, but starting from May 8th, due to Victory Day, the days from the 8th to the 11th were holidays.&lt;/p&gt;
+&lt;h2 id=&#34;events&#34;&gt;Events&lt;/h2&gt;
+&lt;p&gt;During this week, I not only had a good rest but also worked productively, because next week I will have tests and quizzes, so I needed to prepare.&lt;/p&gt;
+&lt;h2 id=&#34;preparation-for-next-week&#34;&gt;Preparation for Next Week&lt;/h2&gt;
+&lt;p&gt;I had to prepare for quizzes in mathematical analysis and linear algebra, as well as for a test in mathematical logic, so I studied diligently all week. In the first few days, I reviewed all the necessary topics in mathematical logic, then completed the homework for linear algebra to better understand the subject. I finished my preparation with mathematical analysis and getting ready for the quiz on integrals.&lt;/p&gt;
 </description>
     </item>
     

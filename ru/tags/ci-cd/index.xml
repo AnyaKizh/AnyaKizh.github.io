@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CI-CD | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/ru/tags/ci-cd/</link>
+      <atom:link href="http://localhost:1313/ru/tags/ci-cd/index.xml" rel="self" type="application/rss+xml" />
+    <description>CI-CD</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Mon, 12 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
+      <title>CI-CD</title>
+      <link>http://localhost:1313/ru/tags/ci-cd/</link>
+    </image>
+    
+    <item>
+      <title>26-31.05.2025</title>
+      <link>http://localhost:1313/ru/post/2/</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/post/2/</guid>
+      <description>&lt;p&gt;На прошедшей неделе учёба в вузе была насыщенной и продуктивной. Я активно посещала лекции и семинары, уделяя особое внимание сложным темам, которые требовали дополнительного времени для усвоения. Особое внимание уделила подготовке к предстоящим контрольным работам — повторяла основные концепции, решала практические задачи и анализировала ошибки, чтобы избежать их в будущем.&lt;/p&gt;
+&lt;p&gt;Кроме того, я участвовала в групповых проектах, что помогло улучшить навыки командной работы и углубить понимание предметов через обсуждения с однокурсниками. В свободное время занималась самостоятельным изучением дополнительной литературы и материалов, что позволило расширить кругозор и лучше подготовиться к экзаменам.&lt;/p&gt;
+&lt;p&gt;Несмотря на интенсивный график, я старалась сохранять баланс между учёбой и отдыхом, чтобы поддерживать высокий уровень мотивации и продуктивности. В целом, неделя прошла успешно, и я чувствую уверенность в своих знаниях и готовность к новым вызовам в учёбе.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Что такое CI-CD?</title>
+      <link>http://localhost:1313/ru/post/ci-cd/</link>
+      <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ru/post/ci-cd/</guid>
+      <description>&lt;p&gt;CI/CD - это не просто модные аббревиатуры, а ключевые практики для современной разработки программного обеспечения. Они позволяют командам создавать и выпускать софт быстрее, надежнее и с меньшим количеством ошибок.&lt;/p&gt;
+&lt;h2 id=&#34;ci-continuous-integration---непрерывная-интеграция&#34;&gt;CI (Continuous Integration - Непрерывная Интеграция):&lt;/h2&gt;
+&lt;p&gt;•  Разработчики регулярно интегрируют свои изменения кода в общий репозиторий.&lt;/p&gt;
+&lt;p&gt;•  Автоматизированные сборки и тесты выполняются при каждой интеграции.&lt;/p&gt;
+&lt;p&gt;•  Проблемы обнаруживаются на ранних этапах, что упрощает их исправление.&lt;/p&gt;
+&lt;h2 id=&#34;cd-continuous-deliverydeployment---непрерывная-доставкаразвертывание&#34;&gt;CD (Continuous Delivery/Deployment - Непрерывная Доставка/Развертывание):&lt;/h2&gt;
+&lt;p&gt;•  Автоматизирует процесс доставки изменений кода в различные среды (тестирование, staging, production).&lt;/p&gt;
+&lt;p&gt;•  Continuous Delivery: Изменения готовы к развертыванию в production в любой момент, но требуют ручного одобрения.&lt;/p&gt;
+&lt;p&gt;•  Continuous Deployment: Изменения автоматически развертываются в production после успешного прохождения всех тестов.&lt;/p&gt;
+&lt;h2 id=&#34;в-итоге-cicd-позволяет&#34;&gt;В итоге, CI/CD позволяет:&lt;/h2&gt;
+&lt;p&gt;•  Ускорить выпуск новых функций и обновлений.&lt;/p&gt;
+&lt;p&gt;•  Улучшить качество кода за счет автоматизированного тестирования.&lt;/p&gt;
+&lt;p&gt;•  Снизить риски, связанные с развертыванием.&lt;/p&gt;
+&lt;p&gt;•  Сделать процесс разработки более предсказуемым и эффективным.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
